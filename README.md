@@ -1,3 +1,15 @@
 # Teste React-swr
 
-Teste da biblioteca [SWR](https://swr.vercel.app/), para geração de caches.
+## Getting Started
+
+First, run the development server:
+
+```bash
+yarn 
+
+yarn start
+
+yarn server
+```
+
+Test lib [SWR](https://swr.vercel.app/), for generating caches.
